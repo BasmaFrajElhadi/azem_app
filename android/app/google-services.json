@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714959717701",
+    "project_id": "azem-dd9a5",
+    "storage_bucket": "azem-dd9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714959717701:android:e15bbb079880306cb66a2c",
+        "android_client_info": {
+          "package_name": "com.example.azem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AXHMuSvKp99yQv8fTZ-Lpgsm0rU56Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
